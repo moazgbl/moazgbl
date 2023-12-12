@@ -34,7 +34,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=flat&logo=MYSQL)&nbsp;
 
-# <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moazgbl&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moazgbl&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" /> -->
   <br>
 <a href="https://komarev.com/ghpvc/?username=moazgbl&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=moazgbl&style=for-the-badge">
